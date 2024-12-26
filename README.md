@@ -30,21 +30,10 @@ This repository contains Python code that I learned and practiced during my Tech
    python script_name.py
    ```
 
-## Folder Structure
-
-```
-practice-python-code/
-├── basics/            # Beginner-level scripts
-├── data_structures/   # Examples of lists, dictionaries, etc.
-├── oop/               # Object-oriented programming examples
-├── projects/          # Mini-projects built during the class
-└── README.md          # This file
-```
-
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/)
-- [TechTonicTribe](https://www.techttonictribe.com) - The class where I learned Python
+- [TechTonicTribe](https://t.me/TechTonicTribe) - The class where I learned Python
 
 ## Contributions
 
