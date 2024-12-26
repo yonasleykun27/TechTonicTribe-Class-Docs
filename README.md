@@ -17,12 +17,12 @@ This repository contains Python code that I learned and practiced during my Tech
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yonasleykun27/practice-python-code.git
+   git clone https://github.com/yonasleykun27/TechTonicTribe-Class-Docs.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd practice-python-code
+   cd TechTonicTribe-Class-Docs
    ```
 
 3. Run any script using Python:
